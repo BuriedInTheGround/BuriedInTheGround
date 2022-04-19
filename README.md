@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### ✨ Something about me
+### ✨ Something about me
 
 I'm a software developer and computer engineer. I have a strong interest in
 online privacy issues and information security. 🛡️
@@ -14,7 +14,7 @@ Also, nvim btw. ⚡
 
 My pronouns are [he/him](https://pronoun.is/he). 🌱
 
-#### 🌸 How to reach me
+### 🌸 How to reach me
 
 - Email: [`hi <at> interrato.dev`](mailto:hi@interrato.dev)
 - Twitter: [`@BuriedInTheGnd`](https://twitter.com/BuriedInTheGnd)
