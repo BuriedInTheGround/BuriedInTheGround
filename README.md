@@ -16,5 +16,5 @@ My pronouns are [he/him](https://pronoun.is/he). 🌱
 
 ### 🌸 How to reach me
 
-- Email: [`hi <at> interrato.dev`](mailto:hi@interrato.dev)
+- Email: [`github <at> interrato.dev`](mailto:github@interrato.dev)
 - Twitter: [`@BuriedInTheGnd`](https://twitter.com/BuriedInTheGnd)
